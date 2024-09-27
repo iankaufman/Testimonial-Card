@@ -59,6 +59,7 @@ body {
   font-size: 18px;
   line-height: 28px;
   color: #171717;
+  margin: 0;
 }
 
 .userinfo p {
@@ -67,6 +68,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #525252;
+  margin: 0;
 }
 
 .message p {
